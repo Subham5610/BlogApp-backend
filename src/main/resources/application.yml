@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://subhamrana:subham@cluster0.j23nlue.mongodb.net/?retryWrites=true&w=majority
+      database : Blog
