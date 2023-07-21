@@ -14,6 +14,7 @@ public class Blog {
     @Id
     private String blogId;
     private String content;
+    private String email;
     private String userId;
     private String title;
 }
